@@ -1,0 +1,18 @@
+talita_rise_up/
+├── app/
+│   ├── static/
+│   │   ├── css/
+│   │   └── js/
+│   ├── templates/
+│   │   ├── base.html
+│   │   ├── index.html
+│   │   ├── donor_dashboard.html
+│   │   ├── admin_panel.html
+│   │   └── household_survey.html
+│   ├── __init__.py
+│   ├── models.py
+│   └── routes.py
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── run.py
